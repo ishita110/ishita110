@@ -1,7 +1,7 @@
 ## Hi! I'm [Ishita Dave](https://ishitadave.vercel.app/) 👋
 I'm a Full-Stack Software Developer with 2 years of experience building scalable web platforms, AI tools, and cloud-native backend systems. I graduated with Masters in Computer Science from [New Jersey Institute of Technology](https://www.njit.edu/). I love crafting clean, end-to-end solutions that solve real problems.
 
-- 👩🏻‍💻 I’m currently as a Software Developer [@Questant Inc.](https://www.questantinc.com/)
+- 👩🏻‍💻 I’m currently working as a Software Developer [@Questant Inc.](https://www.questantinc.com/)
 - 🌱 Exploring new advancements in GenAI and implementing AI models
 - 👾 Pronouns: Programmer/She/Her
 - 📫 Reach me at: daveishita25@gmail.com
